@@ -1,15 +1,17 @@
-
 # Install Whishper
-Windows
-./get-whishper.bat
 
-Y on all prompts
+Windows
+
+- ./get-whishper.bat
+
+- Y on all prompts
 
 Linux
-./get-whishper.sh
 
-docker compose up -d
-docker compose down
+- ./get-whishper.sh
+
+- docker compose up -d
+- docker compose down
 
 [![whishper banner](misc/banner.png)](https://whishper.net)
 
