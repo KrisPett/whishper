@@ -2,6 +2,9 @@
 # Install Whishper
 Windows
 ./get-whishper.bat
+
+Y on all prompts
+
 Linux
 ./get-whishper.sh
 
