@@ -1,3 +1,13 @@
+
+# Install Whishper
+Windows
+./get-whishper.bat
+Linux
+./get-whishper.sh
+
+docker compose up -d
+docker compose down
+
 [![whishper banner](misc/banner.png)](https://whishper.net)
 
 [![](https://img.shields.io/badge/website-066da5?style=for-the-badge&logo=icloud&logoColor=white)](https://whishper.net)
