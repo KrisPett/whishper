@@ -10,6 +10,8 @@ Linux
 
 - ./get-whishper.sh
 
+Compose
+
 - docker compose up -d
 - docker compose down
 
